@@ -1,17 +1,25 @@
-# 👋 Hi, I'm Can Satır
+👋 Hi, I'm Can Satir
 
-🎓 2nd-year Computer Science Student at Sabancı University  
-💻 Interested in Software Development and Cybersecurity  
-🚀 Currently learning SQL, Python, and Data Structures  
+Computer Science & Engineering sophomore at Sabanci University with a strong foundation in programming, data structures, and systems-oriented software.
 
-## 🧠 Projects
-- Library and Event Management System (SQL, ongoing)
-- C++ / Python course assignments
+🔧 Interests
+- System-oriented software development
+- Data structures and algorithms
+- Low-level programming concepts
 
-## 🌟 Achievements
+📚 Currently Learning
+- C++ (advanced concepts, memory management)
+- Data Structures & Algorithms
+- SQL and database systems
+
+🧠 Academic Projects
+- Database Systems Project (Library & Event Management System)
+- Coursework projects in C++ and Python, focusing on algorithmic problem solving
+
+🎓 Achievements
 - GitHub Student Developer Pack member
-- Completed C++ course on BTK Akademi
+- Completed C++ course (BTK Akademi)
 
-## 📫 Contact
-📧 can.satir@sabanciuniv.edu  
-🔗 [LinkedIn](https://linkedin.com/in/beratcansatir)
+📫 Contact
+- can.satir@sabanciuniv.edu
+- [LinkedIn](https://www.linkedin.com/in/beratcansatir/)
